@@ -1,4 +1,4 @@
-## Olá! Eu sou o Marques de Sá
+## Olá! Eu sou o Josué
 
 - 🌱Estou estudando HTML, CSS e JS
 - 👨‍💻Pretendo trabalhar com front-end
